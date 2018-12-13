@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543006173 source:c:\users\roberto\desktop\fatec\3-ciclo\estrutura de dados\11.23\tp5\main.cpp
+	<iostream>
+	"bst.h"
+
+1543006564 c:\users\roberto\desktop\fatec\3-ciclo\estrutura de dados\11.23\tp5\bst.h
+	<iostream>
+
